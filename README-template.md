@@ -4,34 +4,14 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Table of contents
 
-# Project Overview
-A brief description of what the project is and what it does.
-
-# Technologies Used
-A list of tools/languages like HTML, CSS, and any frameworks if used.
-
-# Features Implemented
-
-Clean layout using CSS Grid and Flexbox
-
-Responsive web layout (desktop view only)
-
-Styled pricing card and benefits list
-
-# Footer attribution
-
-# Learning Outcomes
-What you learned from the project (HTML structure, CSS layout, clean code).
-
-# Challenges Faced
-Briefly mention any challenges and how you solved them.
-
-# Live Demo
-A link to your hosted version (e.g., GitHub Pages or Netlify).
-
-# Conclusion
-Final thoughts and what you'd improve or add if given more time.
-
+  # Project Overview
+  # Technologies Used
+  # Features Implemented
+  # Footer attribution
+  # Learning Outcomes
+  # Challenges Faced
+  # Live Demo(link)
+  # Conclusion
 
 ## Project Overview
 This project is a simple, responsive pricing card layout created using HTML and CSS. It displays a monthly subscription plan with a list of benefits, pricing information, and a "Sign Up" button.
@@ -76,8 +56,8 @@ Making sure text and colors matched the design
 
 Understanding how to use padding and margins effectively
 
-## Live Demo (optional)
-If you’ve hosted your project, paste your link here.
+## Live Demo (Link)
+https://karabo-tech.github.io/single-price-grid-component-master/
 
 ## Conclusion
 This project helped me understand how to convert a design into a working website. I gained confidence in writing clean HTML and CSS and learned how important attention to detail is in frontend development. In the future, I would try to make the design fully responsive for all screen sizes.
