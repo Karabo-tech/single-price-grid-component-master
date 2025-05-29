@@ -17,11 +17,11 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 This project is a simple, responsive pricing card layout created using HTML and CSS. It displays a monthly subscription plan with a list of benefits, pricing information, and a "Sign Up" button.
 
 ## Technologies Used
-HTML5 for page structure
+HTML for page structure
 
-CSS3 for styling
+CSS for styling
 
-No external libraries or fonts used
+Fonts used -->  Google Fonts: Karla
 
 Responsive design principles (web view only)
 
